@@ -6,17 +6,21 @@ A seamless food ordering application that integrates a robust backend, an intera
 Frontend: https://fluffy-kelpie-95eae9.netlify.app/
 Alternate Frontend: https://eateasyfrontend1.vercel.app/
 Backend API: https://eateasybackend.onrender.com
+
 🚀 Features
 Frontend
 Responsive UI/UX for easy navigation and a smooth user experience.
 Built using modern frameworks for high performance and flexibility.
+
 Backend
 Secure and scalable API endpoints for user authentication, order management, and data handling.
 Optimized database interactions for quick data retrieval and manipulation.
+
 🛠️ Tech Stack
 Frontend: React.js, CSS/SCSS, Netlify
 Backend: Node.js, Express.js, MongoDB, Render
 Hosting: Vercel (Frontend), Render (Backend)
+
 📦 Installation and Setup
 Prerequisites
 Node.js installed on your system
@@ -56,6 +60,7 @@ bash
 Copy code
 cd frontend
 npm start
+
 📖 API Documentation
 The backend exposes RESTful endpoints for various features. Detailed documentation can be found here.
 
